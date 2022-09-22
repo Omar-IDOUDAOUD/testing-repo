@@ -1,1 +1,1 @@
-# this is testing repository
+# this is testing repository [public]
